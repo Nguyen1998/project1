@@ -1,0 +1,26 @@
+.c1{
+    color: red;
+    background-color: burlywood;
+}
+#i1{
+    color: tomato;
+
+}
+#i2{
+    color: pink;
+}
+.d1 ul li{
+    text-decoration: none;
+    background-color: green;
+}
+.d1 ul ul>li{
+    background-color: yellow;
+    color: black;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.d2 ol{
+    color: purple;
+    background-color: pink;
+}
